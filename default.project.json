@@ -1,0 +1,11 @@
+{
+  "name": "TysAdminProject",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "TysAdmin": {
+        "$path": "src"
+      }
+    }
+  }
+}
